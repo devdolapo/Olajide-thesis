@@ -1,0 +1,6 @@
+[submodule "ioc-parser"]
+	path = ioc-parser
+	url = ./ioc-parser
+[submodule "tools"]
+	path = tools
+	url = ./tools
